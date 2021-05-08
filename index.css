@@ -3,3 +3,22 @@
 @tailwind utilities;
 
 [x-cloak] { display: none; }
+
+.bg-image {
+    background-image: url(/images/main-couple.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.bg-image-1 {
+    background-image: url(/images/insurance.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: right;
+}
+.bg-image-2 {
+    background-image: url(/images/insurance-2.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: right;
+}

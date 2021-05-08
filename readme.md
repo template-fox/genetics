@@ -1,7 +1,7 @@
 ## About Template Fox
 
 I am full stack developer who enjoys converting designs from picture to web page.
-
+- [Demo](https://igenetic.surge.sh)
 - [Find me](https://sumanshresth.com.np)
 
 ### Technologies used
@@ -9,6 +9,7 @@ I am full stack developer who enjoys converting designs from picture to web page
 * Tailwindcss
 * Alpinejs
 * Messenger
+* Google Icons
 
 ### Tested at
 
